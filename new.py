@@ -1,3 +1,4 @@
+# Project Group Members Bikram P. Grace B. Elizabeth B.
 # Rules
 #For this project, you and your partner(s) will work to create a program that has a "player" and a "computer" adversary. The computer should randomly choose its decision based on a list of actions it can take ("Rock", "Paper" or "Scissors"). The player should then have a chance to input their decision.
 # If player and computer choose the same decision then display ("Game Tied"),
